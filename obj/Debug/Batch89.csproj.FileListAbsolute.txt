@@ -1,0 +1,5 @@
+C:\Users\stat3297\Documents\Visual Studio 2010\Projects\Batch89\Batch89\bin\Batch89.dll
+C:\Users\stat3297\Documents\Visual Studio 2010\Projects\Batch89\Batch89\bin\Batch89.pdb
+C:\Users\stat3297\Documents\Visual Studio 2010\Projects\Batch89\Batch89\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stat3297\Documents\Visual Studio 2010\Projects\Batch89\Batch89\obj\Debug\Batch89.dll
+C:\Users\stat3297\Documents\Visual Studio 2010\Projects\Batch89\Batch89\obj\Debug\Batch89.pdb
