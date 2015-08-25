@@ -14,6 +14,11 @@
                firstName: 'Frank',
                lastName: 'Smith',
                phone: '503-555-1212'
+           },
+           {
+                firstName: 'Joey',
+                lastName: 'Saragosa'
+                phone: '555-444-2342'
            };
        </script>
     </div>
